@@ -16,7 +16,7 @@ As your first step, your team must update the `README.md` file in your **own tea
 
 | Name | UCMS ID | Email | Contact | Branch | GitHub Username |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., CSE] | [@username] |
+| [Abhishek Durgade] | [BT26CS1101] | [durgadead26.comp@coeptech.ac.in] | [9356170377] | [CSE] | [Abhishekx007] |
 | [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., AIML] | [@username] |
 | [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., MEC] | [@username] |
 | [Student Name] | [UCMS ID] | [College Email] | [Phone Number] | [e.g., ELEC] | [@username] |
