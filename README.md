@@ -1,8 +1,14 @@
 # Student Manuals
 
-Welcome to the central repository for all student laboratory manuals. 
+Welcome to the central repository for all student laboratory manuals.
 
-Please navigate to your current module folder to download the files and read the instructions.
+Please navigate to your current module folder to download the files and read the instructions, or open the **Course Project Manual** directly below.
+
+---
+
+## $\color{red}{\textsf{Course Project Student Manual (PDF):}}$ [Click Here to Open Project Manual](EE26-Student-Project-Manual_v2.pdf)
+
+> **Direct File:** [`EE26-Student-Project-Manual_v2.pdf`](EE26-Student-Project-Manual_v2.pdf) (27-page step-by-step guide covering repository setup, Stages `00` to `09`, worked example, Tinkering Lab Material Approval Sheet procedure, checklist, and rubric)
 
 ---
 
